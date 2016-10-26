@@ -1,0 +1,265 @@
+01-01 05:48:34.248 D/lights_cyw( 1272): cyw----open_lights-------
+01-01 05:48:34.248 E/Lights  ( 1272): cyw   open_lights---------------
+01-01 05:48:34.248 D/lights_cyw( 1272): cyw----open_lights-------
+01-01 05:48:34.248 E/Lights  ( 1272): cyw   open_lights---------------
+01-01 05:48:34.248 D/lights_cyw( 1272): cyw----open_lights-------
+01-01 05:48:34.248 E/Lights  ( 1272): cyw   open_lights---------------
+01-01 05:48:34.248 D/lights_cyw( 1272): cyw----open_lights-------
+01-01 05:48:34.248 E/Lights  ( 1272): cyw   open_lights---------------
+01-01 05:48:34.248 D/lights_cyw( 1272): cyw----open_lights-------
+01-01 05:48:34.248 E/Lights  ( 1272): cyw   open_lights---------------
+01-01 05:48:34.248 D/lights_cyw( 1272): cyw----open_lights-------
+01-01 05:48:34.248 E/Lights  ( 1272): cyw   open_lights---------------
+01-01 05:48:34.248 D/lights_cyw( 1272): cyw----open_lights-------
+01-01 05:48:34.248 E/Lights  ( 1272): cyw   open_lights---------------
+01-01 05:48:34.248 D/lights_cyw( 1272): cyw----open_lights-------
+01-01 05:48:34.248 E/Lights  ( 1272): cyw   open_lights---------------
+01-01 05:48:34.258 E/LightsService( 1272): cywaa_setLight #0: color=#ff666666
+01-01 05:48:34.258 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:34.258 D/lights_cyw( 1272): cyw----set_light_backlight-------
+01-01 05:48:34.258 E/Lights  ( 1272): cyw   set_light_backlight---------------
+01-01 05:48:34.258 E/Lights  ( 1272): cyw   rgb_to_brightness---------------
+01-01 05:48:34.258 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:34.258 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:35.948 E/cyw     ( 1272): cywaa----------updateLightsLocked-----setColor-----
+01-01 05:48:35.949 E/LightsService( 1272): cywaa_setLight #3: color=#ff00ff00
+01-01 05:48:35.949 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:35.949 D/lights_cyw( 1272): cyw----set_light_battery-------
+01-01 05:48:35.949 E/Lights  ( 1272): cyw   set_light_battery---------------
+01-01 05:48:35.949 D/lights_cyw( 1272): cyw----handle_speaker_battery_locked-------
+01-01 05:48:35.949 E/Lights  ( 1272): cyw   handle_speaker_battery_locked---------------
+01-01 05:48:35.949 E/Lights  ( 1272): cyw   is_lit---------------
+01-01 05:48:35.949 D/lights_cyw( 1272): cyw----set_speaker_light_locked-------
+01-01 05:48:35.949 E/Lights  ( 1272): cyw   set_speaker_light_locked---------------
+01-01 05:48:35.949 D/lights_cyw( 1272): set_speaker_light_locked mode 0, colorRGB=FF00FF00, onMS=0, offMS=0
+01-01 05:48:35.949 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:35.949 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:35.949 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:35.949 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:35.949 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:35.949 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:35.950 E/LightsService( 1272): cywaa_setLight #3: color=#ff00ff00
+01-01 05:48:35.950 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:35.950 D/lights_cyw( 1272): cyw----set_light_battery-------
+01-01 05:48:35.950 E/Lights  ( 1272): cyw   set_light_battery---------------
+01-01 05:48:35.950 D/lights_cyw( 1272): cyw----handle_speaker_battery_locked-------
+01-01 05:48:35.950 E/Lights  ( 1272): cyw   handle_speaker_battery_locked---------------
+01-01 05:48:35.950 E/Lights  ( 1272): cyw   is_lit---------------
+01-01 05:48:35.950 D/lights_cyw( 1272): cyw----set_speaker_light_locked-------
+01-01 05:48:35.950 E/Lights  ( 1272): cyw   set_speaker_light_locked---------------
+01-01 05:48:35.950 D/lights_cyw( 1272): set_speaker_light_locked mode 1, colorRGB=FF00FF00, onMS=125, offMS=2875
+01-01 05:48:35.950 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:35.950 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:38.061 E/cyw     ( 1272): cywaa----------updateLightsLocked-----setColor-----
+01-01 05:48:38.061 E/LightsService( 1272): cywaa_setLight #3: color=#ff00ff00
+01-01 05:48:38.061 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:38.061 D/lights_cyw( 1272): cyw----set_light_battery-------
+01-01 05:48:38.061 E/Lights  ( 1272): cyw   set_light_battery---------------
+01-01 05:48:38.061 D/lights_cyw( 1272): cyw----handle_speaker_battery_locked-------
+01-01 05:48:38.061 E/Lights  ( 1272): cyw   handle_speaker_battery_locked---------------
+01-01 05:48:38.061 E/Lights  ( 1272): cyw   is_lit---------------
+01-01 05:48:38.061 D/lights_cyw( 1272): cyw----set_speaker_light_locked-------
+01-01 05:48:38.061 E/Lights  ( 1272): cyw   set_speaker_light_locked---------------
+01-01 05:48:38.061 D/lights_cyw( 1272): set_speaker_light_locked mode 0, colorRGB=FF00FF00, onMS=0, offMS=0
+01-01 05:48:38.061 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:38.061 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:38.061 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:38.061 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:38.061 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:38.061 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:38.061 E/LightsService( 1272): cywaa_setLight #3: color=#ff00ff00
+01-01 05:48:38.061 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:38.061 D/lights_cyw( 1272): cyw----set_light_battery-------
+01-01 05:48:38.061 E/Lights  ( 1272): cyw   set_light_battery---------------
+01-01 05:48:38.061 D/lights_cyw( 1272): cyw----handle_speaker_battery_locked-------
+01-01 05:48:38.061 E/Lights  ( 1272): cyw   handle_speaker_battery_locked---------------
+01-01 05:48:38.061 E/Lights  ( 1272): cyw   is_lit---------------
+01-01 05:48:38.061 D/lights_cyw( 1272): cyw----set_speaker_light_locked-------
+01-01 05:48:38.061 E/Lights  ( 1272): cyw   set_speaker_light_locked---------------
+01-01 05:48:38.061 D/lights_cyw( 1272): set_speaker_light_locked mode 1, colorRGB=FF00FF00, onMS=125, offMS=2875
+01-01 05:48:38.062 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:38.062 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:55.901 E/LightsService( 1272): cywaa_setLight #0: color=#ff646464
+01-01 05:48:55.901 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:55.902 D/lights_cyw( 1272): cyw----set_light_backlight-------
+01-01 05:48:55.902 E/Lights  ( 1272): cyw   set_light_backlight---------------
+01-01 05:48:55.902 E/Lights  ( 1272): cyw   rgb_to_brightness---------------
+01-01 05:48:55.902 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:55.902 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:55.917 E/LightsService( 1272): cywaa_setLight #0: color=#ff616161
+01-01 05:48:55.917 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:55.917 D/lights_cyw( 1272): cyw----set_light_backlight-------
+01-01 05:48:55.917 E/Lights  ( 1272): cyw   set_light_backlight---------------
+01-01 05:48:55.918 E/Lights  ( 1272): cyw   rgb_to_brightness---------------
+01-01 05:48:55.918 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:55.918 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:55.934 E/LightsService( 1272): cywaa_setLight #0: color=#ff5e5e5e
+01-01 05:48:55.934 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:55.934 D/lights_cyw( 1272): cyw----set_light_backlight-------
+01-01 05:48:55.934 E/Lights  ( 1272): cyw   set_light_backlight---------------
+01-01 05:48:55.934 E/Lights  ( 1272): cyw   rgb_to_brightness---------------
+01-01 05:48:55.934 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:55.934 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:55.950 E/LightsService( 1272): cywaa_setLight #0: color=#ff5a5a5a
+01-01 05:48:55.951 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:55.951 D/lights_cyw( 1272): cyw----set_light_backlight-------
+01-01 05:48:55.951 E/Lights  ( 1272): cyw   set_light_backlight---------------
+01-01 05:48:55.951 E/Lights  ( 1272): cyw   rgb_to_brightness---------------
+01-01 05:48:55.951 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:55.951 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:55.968 E/LightsService( 1272): cywaa_setLight #0: color=#ff575757
+01-01 05:48:55.968 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:55.968 D/lights_cyw( 1272): cyw----set_light_backlight-------
+01-01 05:48:55.968 E/Lights  ( 1272): cyw   set_light_backlight---------------
+01-01 05:48:55.968 E/Lights  ( 1272): cyw   rgb_to_brightness---------------
+01-01 05:48:55.968 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:55.968 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:55.985 E/LightsService( 1272): cywaa_setLight #0: color=#ff545454
+01-01 05:48:55.985 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:55.985 D/lights_cyw( 1272): cyw----set_light_backlight-------
+01-01 05:48:55.985 E/Lights  ( 1272): cyw   set_light_backlight---------------
+01-01 05:48:55.985 E/Lights  ( 1272): cyw   rgb_to_brightness---------------
+01-01 05:48:55.985 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:55.985 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:56.000 E/LightsService( 1272): cywaa_setLight #0: color=#ff505050
+01-01 05:48:56.001 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:56.001 D/lights_cyw( 1272): cyw----set_light_backlight-------
+01-01 05:48:56.001 E/Lights  ( 1272): cyw   set_light_backlight---------------
+01-01 05:48:56.001 E/Lights  ( 1272): cyw   rgb_to_brightness---------------
+01-01 05:48:56.001 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:56.001 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:56.017 E/LightsService( 1272): cywaa_setLight #0: color=#ff4d4d4d
+01-01 05:48:56.017 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:56.017 D/lights_cyw( 1272): cyw----set_light_backlight-------
+01-01 05:48:56.017 E/Lights  ( 1272): cyw   set_light_backlight---------------
+01-01 05:48:56.017 E/Lights  ( 1272): cyw   rgb_to_brightness---------------
+01-01 05:48:56.017 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:56.017 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:56.033 E/LightsService( 1272): cywaa_setLight #0: color=#ff4a4a4a
+01-01 05:48:56.034 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:56.034 D/lights_cyw( 1272): cyw----set_light_backlight-------
+01-01 05:48:56.034 E/Lights  ( 1272): cyw   set_light_backlight---------------
+01-01 05:48:56.035 E/Lights  ( 1272): cyw   rgb_to_brightness---------------
+01-01 05:48:56.035 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:56.035 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:56.051 E/LightsService( 1272): cywaa_setLight #0: color=#ff464646
+01-01 05:48:56.052 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:56.052 D/lights_cyw( 1272): cyw----set_light_backlight-------
+01-01 05:48:56.052 E/Lights  ( 1272): cyw   set_light_backlight---------------
+01-01 05:48:56.052 E/Lights  ( 1272): cyw   rgb_to_brightness---------------
+01-01 05:48:56.052 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:56.052 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:56.069 E/LightsService( 1272): cywaa_setLight #0: color=#ff434343
+01-01 05:48:56.069 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:56.069 D/lights_cyw( 1272): cyw----set_light_backlight-------
+01-01 05:48:56.069 E/Lights  ( 1272): cyw   set_light_backlight---------------
+01-01 05:48:56.069 E/Lights  ( 1272): cyw   rgb_to_brightness---------------
+01-01 05:48:56.069 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:56.069 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:56.083 E/LightsService( 1272): cywaa_setLight #0: color=#ff404040
+01-01 05:48:56.084 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:56.084 D/lights_cyw( 1272): cyw----set_light_backlight-------
+01-01 05:48:56.084 E/Lights  ( 1272): cyw   set_light_backlight---------------
+01-01 05:48:56.084 E/Lights  ( 1272): cyw   rgb_to_brightness---------------
+01-01 05:48:56.084 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:56.084 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:56.100 E/LightsService( 1272): cywaa_setLight #0: color=#ff3c3c3c
+01-01 05:48:56.100 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:56.101 D/lights_cyw( 1272): cyw----set_light_backlight-------
+01-01 05:48:56.101 E/Lights  ( 1272): cyw   set_light_backlight---------------
+01-01 05:48:56.101 E/Lights  ( 1272): cyw   rgb_to_brightness---------------
+01-01 05:48:56.101 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:56.101 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:56.117 E/LightsService( 1272): cywaa_setLight #0: color=#ff393939
+01-01 05:48:56.117 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:56.117 D/lights_cyw( 1272): cyw----set_light_backlight-------
+01-01 05:48:56.118 E/Lights  ( 1272): cyw   set_light_backlight---------------
+01-01 05:48:56.118 E/Lights  ( 1272): cyw   rgb_to_brightness---------------
+01-01 05:48:56.118 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:56.118 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:56.135 E/LightsService( 1272): cywaa_setLight #0: color=#ff363636
+01-01 05:48:56.135 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:56.135 D/lights_cyw( 1272): cyw----set_light_backlight-------
+01-01 05:48:56.135 E/Lights  ( 1272): cyw   set_light_backlight---------------
+01-01 05:48:56.135 E/Lights  ( 1272): cyw   rgb_to_brightness---------------
+01-01 05:48:56.135 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:56.135 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:56.151 E/LightsService( 1272): cywaa_setLight #0: color=#ff323232
+01-01 05:48:56.151 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:56.151 D/lights_cyw( 1272): cyw----set_light_backlight-------
+01-01 05:48:56.151 E/Lights  ( 1272): cyw   set_light_backlight---------------
+01-01 05:48:56.151 E/Lights  ( 1272): cyw   rgb_to_brightness---------------
+01-01 05:48:56.151 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:56.151 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:56.167 E/LightsService( 1272): cywaa_setLight #0: color=#ff2f2f2f
+01-01 05:48:56.167 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:56.168 D/lights_cyw( 1272): cyw----set_light_backlight-------
+01-01 05:48:56.168 E/Lights  ( 1272): cyw   set_light_backlight---------------
+01-01 05:48:56.168 E/Lights  ( 1272): cyw   rgb_to_brightness---------------
+01-01 05:48:56.168 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:56.168 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:56.184 E/LightsService( 1272): cywaa_setLight #0: color=#ff2c2c2c
+01-01 05:48:56.184 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:56.184 D/lights_cyw( 1272): cyw----set_light_backlight-------
+01-01 05:48:56.185 E/Lights  ( 1272): cyw   set_light_backlight---------------
+01-01 05:48:56.185 E/Lights  ( 1272): cyw   rgb_to_brightness---------------
+01-01 05:48:56.185 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:56.185 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:56.200 E/LightsService( 1272): cywaa_setLight #0: color=#ff282828
+01-01 05:48:56.201 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:56.201 D/lights_cyw( 1272): cyw----set_light_backlight-------
+01-01 05:48:56.201 E/Lights  ( 1272): cyw   set_light_backlight---------------
+01-01 05:48:56.201 E/Lights  ( 1272): cyw   rgb_to_brightness---------------
+01-01 05:48:56.201 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:56.201 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:56.217 E/LightsService( 1272): cywaa_setLight #0: color=#ff252525
+01-01 05:48:56.218 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:56.218 D/lights_cyw( 1272): cyw----set_light_backlight-------
+01-01 05:48:56.218 E/Lights  ( 1272): cyw   set_light_backlight---------------
+01-01 05:48:56.218 E/Lights  ( 1272): cyw   rgb_to_brightness---------------
+01-01 05:48:56.218 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:56.218 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:56.234 E/LightsService( 1272): cywaa_setLight #0: color=#ff222222
+01-01 05:48:56.234 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:56.234 D/lights_cyw( 1272): cyw----set_light_backlight-------
+01-01 05:48:56.234 E/Lights  ( 1272): cyw   set_light_backlight---------------
+01-01 05:48:56.234 E/Lights  ( 1272): cyw   rgb_to_brightness---------------
+01-01 05:48:56.235 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:56.235 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:56.251 E/LightsService( 1272): cywaa_setLight #0: color=#ff1e1e1e
+01-01 05:48:56.251 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:56.251 D/lights_cyw( 1272): cyw----set_light_backlight-------
+01-01 05:48:56.251 E/Lights  ( 1272): cyw   set_light_backlight---------------
+01-01 05:48:56.252 E/Lights  ( 1272): cyw   rgb_to_brightness---------------
+01-01 05:48:56.252 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:56.252 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:56.267 E/LightsService( 1272): cywaa_setLight #0: color=#ff1b1b1b
+01-01 05:48:56.268 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:56.268 D/lights_cyw( 1272): cyw----set_light_backlight-------
+01-01 05:48:56.268 E/Lights  ( 1272): cyw   set_light_backlight---------------
+01-01 05:48:56.268 E/Lights  ( 1272): cyw   rgb_to_brightness---------------
+01-01 05:48:56.268 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:56.268 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:56.286 E/LightsService( 1272): cywaa_setLight #0: color=#ff181818
+01-01 05:48:56.287 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:56.287 D/lights_cyw( 1272): cyw----set_light_backlight-------
+01-01 05:48:56.287 E/Lights  ( 1272): cyw   set_light_backlight---------------
+01-01 05:48:56.287 E/Lights  ( 1272): cyw   rgb_to_brightness---------------
+01-01 05:48:56.287 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:56.287 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:56.300 E/LightsService( 1272): cywaa_setLight #0: color=#ff141414
+01-01 05:48:56.301 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:56.301 D/lights_cyw( 1272): cyw----set_light_backlight-------
+01-01 05:48:56.301 E/Lights  ( 1272): cyw   set_light_backlight---------------
+01-01 05:48:56.301 E/Lights  ( 1272): cyw   rgb_to_brightness---------------
+01-01 05:48:56.301 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:56.301 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:56.317 E/LightsService( 1272): cywaa_setLight #0: color=#ff111111
+01-01 05:48:56.317 I/这里填写日志的TAG( 1272): cyw-------user info----setLight_native
+01-01 05:48:56.317 D/lights_cyw( 1272): cyw----set_light_backlight-------
+01-01 05:48:56.317 E/Lights  ( 1272): cyw   set_light_backlight---------------
+01-01 05:48:56.317 E/Lights  ( 1272): cyw   rgb_to_brightness---------------
+01-01 05:48:56.318 D/lights_cyw( 1272): cyw----write_int-------
+01-01 05:48:56.318 E/Lights  ( 1272): cyw   write_int---------------
+01-01 05:48:56.334 E/LightsService( 1272): cywaa_setLight #0: color=#ff0e0e0e
+01-01 05:48:56.334 I/这里填写日志的TAG( 1

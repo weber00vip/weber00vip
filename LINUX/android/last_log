@@ -1,0 +1,289 @@
+__bionic_open_tzdata: couldn't find any tzdata when looking for localtime!
+__bionic_open_tzdata: couldn't find any tzdata when looking for GMT!
+__bionic_open_tzdata: couldn't find any tzdata when looking for posixrules!
+Starting recovery (pid 405) on Fri Jan  2 18:49:41 1970
+recovery filesystem table
+=========================
+  0 /system ext4 /dev/block/bootdevice/by-name/system 0
+  1 /cache ext4 /dev/block/bootdevice/by-name/cache 0
+  2 /data ext4 /dev/block/bootdevice/by-name/userdata 0
+  3 /sdcard vfat /dev/block/mmcblk1p1 0
+  4 /boot emmc /dev/block/bootdevice/by-name/boot 0
+  5 /recovery emmc /dev/block/bootdevice/by-name/recovery 0
+  6 /misc emmc /dev/block/bootdevice/by-name/misc 0
+  7 /tmp ramdisk ramdisk 0
+
+I:Got arguments from /cache/recovery/command
+locale is [en_US]
+stage is []
+reason is [(null)]
+cannot find/open a drm device: No such file or directory
+fb0 reports (possibly inaccurate):
+  vi.bits_per_pixel = 32
+  vi.red.offset   =   0   .length =   8
+  vi.green.offset =   8   .length =   8
+  vi.blue.offset  =  16   .length =   8
+framebuffer: 0 (1440 x 2560)
+  found frames = 7
+       installing_text: en (277 x 33 @ 374)
+          erasing_text: en (95 x 33 @ 374)
+       no_command_text: en (150 x 33 @ 374)
+            error_text: en (57 x 33 @ 374)
+Command: "/sbin/recovery" "--update_package=@/cache/recovery/block.map" "--locale=en_US"
+
+af.fast_track_multiplier=1
+av.debug.disable.pers.cache=true
+bt.max.hfpclient.connections=1
+mm.enable.sec.smoothstreaming=false
+mm.enable.qcom_parser=1048575
+ro.qc.sdk.audio.ssr=false
+ro.qc.sdk.audio.fluencetype=none
+ro.sf.lcd_density=706
+ro.com.android.dataroaming=true
+ro.dbg.coresight.config=stm_events
+ro.gps.agps_provider=1
+ro.nfc.port=I2C
+ro.sys.fw.bg_apps_limit=60
+ro.boot.console=ttyHSL0
+ro.boot.baseband=apq
+ro.boot.hardware=qcom
+ro.boot.serialno=602d1392
+ro.boot.bootdevice=7464900.sdhci
+ro.boot.veritymode=logging
+ro.boot.verifiedbootstate=orange
+ro.fota.app=5
+ro.fota.oem=thundersoft820_6.0
+ro.fota.type=VR
+ro.fota.device=MSM8996 for arm64
+ro.fota.version=msm8996-userdebug 6.0.1 MXB48T eng.will.20160909.164711 test-keys
+ro.fota.platform=MSM820_6.0
+ro.hwui.path_cache_size=32
+ro.hwui.layer_cache_size=48
+ro.hwui.texture_cache_size=72
+ro.hwui.gradient_cache_size=1
+ro.hwui.r_buffer_cache_size=8
+ro.hwui.drop_shadow_cache_size=6
+ro.hwui.text_large_cache_width=2048
+ro.hwui.text_small_cache_width=1024
+ro.hwui.text_large_cache_height=1024
+ro.hwui.text_small_cache_height=1024
+ro.hwui.texture_cache_flushrate=0.4
+ro.mdtp.package_name2=com.qualcomm.qti.securemsm.mdtp.MdtpDemo
+ro.wifi.channels=
+ro.allow.mock.location=0
+ro.board.platform=msm8996
+ro.build.id=MXB48T
+ro.build.date=2016年 09月 09日 星期五 16:52:53 CST
+ro.build.date.utc=1473411173
+ro.build.host=will-OptiPlex-3020
+ro.build.tags=test-keys
+ro.build.type=userdebug
+ro.build.user=will
+ro.build.flavor=msm8996-userdebug
+ro.build.display.id=msm8996-userdebug 6.0.1 MXB48T eng.will.20160909.164711 test-keys
+ro.build.product=msm8996
+ro.build.version.sdk=23
+ro.build.version.base_os=
+ro.build.version.release=6.0.1
+ro.build.version.codename=REL
+ro.build.version.incremental=eng.will.20160909.164711
+ro.build.version.preview_sdk=0
+ro.build.version.all_codenames=REL
+ro.build.version.security_patch=2016-05-01
+ro.build.description=msm8996-userdebug 6.0.1 MXB48T eng.will.20160909.164711 test-keys
+ro.build.fingerprint=Android/msm8996/msm8996:6.0.1/MXB48T/will09091649:userdebug/test-keys
+ro.build.characteristics=default
+ro.config.alarm_alert=Alarm_Classic.ogg
+ro.config.notification_sound=OnTheHunt.ogg
+ro.dalvik.vm.native.bridge=0
+ro.secure=1
+ro.vendor.at_library=libqti-at.so
+ro.vendor.gt_library=libqti-gt.so
+ro.vendor.wl_library=libqti-wl.so
+ro.vendor.extension_library=libqti-perfd-client.so
+ro.zygote=zygote64_32
+ro.carrier=unknown
+ro.product.cpu.abi=arm64-v8a
+ro.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.product.cpu.abilist64=arm64-v8a
+ro.product.name=msm8996
+ro.product.board=msm8996
+ro.product.brand=Android
+ro.product.model=MSM8996 for arm64
+ro.product.device=msm8996
+ro.product.locale=en-US
+ro.product.manufacturer=unknown
+ro.baseband=apq
+ro.bootmode=unknown
+ro.hardware=qcom
+ro.opengles.version=196609
+ro.qualcomm.cabl=2
+ro.revision=0
+ro.serialno=602d1392
+ro.bluetooth.wipower=true
+ro.bluetooth.emb_wp_mode=true
+ro.bootimage.build.date=2016年 09月 09日 星期五 17:14:03 CST
+ro.bootimage.build.date.utc=1473412443
+ro.bootimage.build.fingerprint=Android/msm8996/msm8996:6.0.1/MXB48T/will09091649:userdebug/test-keys
+ro.telephony.default_network=10
+ro.bootloader=unknown
+ro.debuggable=1
+ro.use_data_netmgrd=true
+ro.cutoff_voltage_mv=3400
+dev.pm.dyn_samplingrate=1
+mmp.enable.3g2=true
+net.bt.name=Android
+net.change=net.bt.name
+ril.subscription.types=NV,RUIM
+sdm.debug.disable_rotator_split=1
+sdm.perf_hint_window=50
+sys.usb.ffs.ready=1
+sys.games.gt.prof=1
+use.voice.path.for.pcm.voip=true
+init.svc.adbd=running
+init.svc.healthd=running
+init.svc.ueventd=running
+init.svc.recovery=running
+qcom.hw.aac.encoder=true
+qcom.bluetooth.soc=rome
+qemu.hw.mainkeys=1
+rild.libpath=/vendor/lib64/libril-qc-qmi-1.so
+vidc.enc.dcvs.extra-buff-count=2
+vidc.debug.perf.mode=2
+audio.safx.pbe.enabled=true
+audio.dolby.ds2.enabled=false
+audio.dolby.ds2.hardbypass=false
+audio.parser.ip.buffer.size=262144
+audio.offload.pcm.16bit.enable=true
+audio.offload.pcm.24bit.enable=true
+audio.offload.track.enable=true
+audio.offload.video=true
+audio.offload.buffer.size.kb=32
+audio.offload.gapless.enabled=true
+audio.offload.multiaac.enable=true
+audio.offload.multiple.enabled=false
+audio.offload.passthrough=false
+audio.deep_buffer.media=true
+debug.sf.hw=1
+debug.egl.hw=1
+debug.atrace.tags.enableflags=0
+debug.gralloc.enable_fb_ubwc=1
+media.stagefright.enable-aac=true
+media.stagefright.enable-qcp=true
+media.stagefright.enable-http=true
+media.stagefright.enable-scan=true
+media.stagefright.enable-fma2dp=true
+media.stagefright.enable-player=true
+media.aac_51_output_enabled=true
+Camera.no_navigation_bar=true
+camera.disable_zsl_mode=1
+dalvik.vm.isa.arm.variant=cortex-a53
+dalvik.vm.isa.arm.features=default
+dalvik.vm.isa.arm64.variant=kryo
+dalvik.vm.isa.arm64.features=default
+dalvik.vm.heapsize=512m
+dalvik.vm.lockprof.threshold=500
+dalvik.vm.dex2oat-Xms=64m
+dalvik.vm.dex2oat-Xmx=512m
+dalvik.vm.heapmaxfree=8m
+dalvik.vm.heapminfree=512k
+dalvik.vm.heapstartsize=8m
+dalvik.vm.heapgrowthlimit=256m
+dalvik.vm.stack-trace-file=/data/anr/traces.txt
+dalvik.vm.image-dex2oat-Xms=64m
+dalvik.vm.image-dex2oat-Xmx=64m
+dalvik.vm.heaptargetutilization=0.75
+tunnel.audio.encode=false
+persist.mm.enable.prefetch=true
+persist.cne.feature=1
+persist.gps.qc_nlp_in_use=1
+persist.hwc.enable_vds=1
+persist.loc.nlp_name=com.qualcomm.location
+persist.net.doxlat=true
+persist.qfp=false
+persist.sys.sw.firstLaunch=true
+persist.sys.usb.config=adb
+persist.sys.wfd.virtual=0
+persist.sys.dalvik.vm.lib.2=libart
+persist.sys.pd_enable=0
+persist.data.df.agg.dl_pkt=10
+persist.data.df.agg.dl_size=4096
+persist.data.df.dl_mode=5
+persist.data.df.ul_mode=5
+persist.data.df.dev_name=rmnet_usb0
+persist.data.df.iwlan_mux=9
+persist.data.df.mux_count=8
+persist.data.wda.enable=true
+persist.data.mode=concurrent
+persist.data.netmgrd.qos.enable=true
+persist.demo.hdmirotationlock=false
+persist.lens.distortion.k=0.3293,0.1591,0.3293,0.1591,0.3293,0.1591
+persist.rild.nitz_plmn=
+persist.rild.nitz_long_ons_0=
+persist.rild.nitz_long_ons_1=
+persist.rild.nitz_long_ons_2=
+persist.rild.nitz_long_ons_3=
+persist.rild.nitz_short_ons_0=
+persist.rild.nitz_short_ons_1=
+persist.rild.nitz_short_ons_2=
+persist.rild.nitz_short_ons_3=
+persist.audio.fluence.speaker=true
+persist.audio.fluence.voicerec=false
+persist.audio.fluence.voicecall=true
+persist.debug.wfd.enable=1
+persist.panel.orientation=0
+persist.radio.custom_ecc=1
+persist.radio.sib16_support=1
+persist.radio.apm_sim_not_pwdn=1
+persist.rmnet.data.enable=true
+persist.timed.enable=true
+persist.fuse_sdcard=true
+keyguard.no_require_sim=true
+audio_hal.period_size=192
+telephony.lteOnCdmaDevice=1
+DEVICE_PROVISIONED=1
+
+Supported API: 3
+Finding update package...
+I:Update location: @/cache/recovery/block.map
+Opening update package...
+sysutil: mmapped 1 ranges
+I:read key e=3 hash=20
+I:1 key(s) loaded from /res/keys
+Verifying update package...
+I:comment is 1738 bytes; signature 1720 bytes from end
+I:whole-file signature verified against RSA key 0
+I:verify_file returned 0
+Installing update...
+sysutil: mmapped 1 ranges
+Source: Android/msm8996/msm8996:6.0.1/MXB48T/will09091649:userdebug/test-keys
+Target: Android/msm8996/msm8996:6.0.1/MXB48T/will09091649:userdebug/test-keys
+Verifying current system...
+performing verification
+blockimg version is 3
+maximum stash entries 0
+creating stash /cache/recovery/2bdde8504898ccfcd2c59f20bb8c9c25f73bb524/
+254472192 bytes free on /cache (4194304 needed)
+stashing 1024 overlapping blocks to a5fc78c3b3e238607ab89d0cab1d75f907e2db12
+254472192 bytes free on /cache (4194304 needed)
+ writing 1024 blocks to /cache/recovery/2bdde8504898ccfcd2c59f20bb8c9c25f73bb524/a5fc78c3b3e238607ab89d0cab1d75f907e2db12
+deleting /cache/recovery/2bdde8504898ccfcd2c59f20bb8c9c25f73bb524/a5fc78c3b3e238607ab89d0cab1d75f907e2db12
+failed to verify blocks (expected d6fac20203924970e17a7c864ca2d2c1fa08e899, read 346d111740a811c932fc2224c292813e7ecf6034)
+stat "/cache/recovery/2bdde8504898ccfcd2c59f20bb8c9c25f73bb524/d6fac20203924970e17a7c864ca2d2c1fa08e899" failed: No such file or directory
+partition has unexpected contents
+failed to read blocks for diff
+failed to execute command [bsdiff 304 6612 d6fac20203924970e17a7c864ca2d2c1fa08e899 312c64e5582ce06e8ed031f675599f3696e4ae9c 318,1,192,193,345,32765,32766,32767,32770,32961,32962,57554,57555,59208,59209,59254,59256,59525,59526,59795,59796,60045,60046,60383,60384,60390,60391,60397,60398,60425,60427,60430,60431,60442,60443,60565,60568,60593,60594,60749,60750,60790,60791,60831,60832,62100,62102,62409,62410,62455,62456,62472,62473,62490,62515,62518,62519,62527,62528,65487,65488,65500,65502,65536,65537,67628,67632,67682,67683,67701,67703,68366,68367,68513,68516,70562,70563,88666,88667,88832,88833,98304,98306,98497,98498,129901,129903,131014,131015,131072,131073,163840,163842,164033,164034,187366,187368,187370,187371,187386,187387,187413,187414,196608,196609,229376,229378,229569,229570,236612,236613,237928,237929,239733,239734,239817,239819,239821,239822,239845,239846,239879,239880,261436,261437,261511,261514,261535,261537,261695,261696,261699,261703,261714,261715,261770,261772,262023,262024,262029,262031,262050,262051,262054,262056,262065,262066,262083,262085,262089,262093,262121,262127,262137,262143,262144,262145,294912,294914,295105,295106,304056,304058,304148,304149,304189,304191,304437,304438,304446,304448,304488,304489,305225,305227,306505,306523,306691,306692,312325,312326,312329,312330,312349,312350,312389,312391,312400,312401,312522,312525,312528,312532,312544,312545,312598,312600,312907,312908,312911,312913,312929,312930,312934,312936,312947,312948,314401,314403,314416,314419,315769,315770,327680,327681,360448,360449,393216,393217,425984,425985,458752,458753,491520,491521,524288,524289,557056,557057,589824,589825,622592,622593,655360,655361,688128,688129,720896,720897,753664,753665,754174,754175,766365,766370,766374,766376,766386,766387,766907,766911,770041,770042,770071,770075,770237,770238,770242,770244,770257,770258,770266,770268,770285,770286,770424,770426,770950,770951,770965,770967,770976,770977,770999,771001,771042,771043,771921,771923,774567,774568,774625,774627,775005,775006,779170,779174,779997,779998,780016,780018,780063,780064,780068,780070,780089,780090,780092,780094,780099,780100,780108,780111,780118,780120,780153,780154,780155,780157,780161,780162,780175,780177,780205,780216,780231,780232,780239,780624 1024 318,1,192,193,345,32765,32766,32767,32770,32961,32962,57554,57555,59208,59209,59254,59256,59525,59526,59795,59796,60045,60046,60383,60384,60390,60391,60397,60398,60425,60427,60430,60431,60442,60443,60565,60568,60593,60594,60749,60750,60790,60791,60831,60832,62100,62102,62409,62410,62455,62456,62472,62473,62490,62515,62518,62519,62527,62528,65487,65488,65500,65502,65536,65537,67628,67632,67682,67683,67701,67703,68366,68367,68513,68516,70562,70563,88666,88667,88832,88833,98304,98306,98497,98498,129901,129903,131014,131015,131072,131073,163840,163842,164033,164034,187366,187368,187370,187371,187386,187387,187413,187414,196608,196609,229376,229378,229569,229570,236612,236613,237928,237929,239733,239734,239817,239819,239821,239822,239845,239846,239879,239880,261436,261437,261511,261514,261535,261537,261695,261696,261699,261703,261714,261715,261770,261772,262023,262024,262029,262031,262050,262051,262054,262056,262065,262066,262083,262085,262089,262093,262121,262127,262137,262143,262144,262145,294912,294914,295105,295106,304056,304058,304148,304149,304189,304191,304437,304438,304446,304448,304488,304489,305225,305227,306505,306523,306691,306692,312325,312326,312329,312330,312349,312350,312389,312391,312400,312401,312522,312525,312528,312532,312544,312545,312598,312600,312907,312908,312911,312913,312929,312930,312934,312936,312947,312948,314401,314403,314416,314419,315769,315770,327680,327681,360448,360449,393216,393217,425984,425985,458752,458753,491520,491521,524288,524289,557056,557057,589824,589825,622592,622593,655360,655361,688128,688129,720896,720897,753664,753665,754174,754175,766365,766370,766374,766376,766386,766387,766907,766911,770041,770042,770071,770075,770237,770238,770242,770244,770257,770258,770266,770268,770285,770286,770424,770426,770950,770951,770965,770967,770976,770977,770999,771001,771042,771043,771921,771923,774567,774568,774625,774627,775005,775006,779170,779174,779997,779998,780016,780018,780063,780064,780068,780070,780089,780090,780092,780094,780099,780100,780108,780111,780118,780120,780153,780154,780155,780157,780161,780162,780175,780177,780205,780216,780231,780232,780239,780624]
+deleting stash 2bdde8504898ccfcd2c59f20bb8c9c25f73bb524
+script aborted: system partition has unexpected contents
+system partition has unexpected contents
+E:Error in @/cache/recovery/block.map
+(Status 7)
+
+Installation aborted.
+E:failed to mount /data (Invalid argument)
+
+fota_update_install_finish: status = 1
+fota_update_install_finish: dir does not exist, create it.  No such file or directory 
+fota_update_install_finish: can not create dir : No such file or directory
+I:Saving locale "en_US"
